@@ -1,3 +1,36 @@
+
+# THIS REPOSITORY HAS MOVED
+
+New URL: https://git.goyman.com/kuon/pcb-ucurrent
+
+Why I moved everything out of GitHub:
+
+https://github.com/kuon/WhyILeftGithub/blob/main/README.md
+
+----
+
+
+# THIS REPOSITORY HAS MOVED
+
+New URL: https://git.goyman.com/kuon/pcb-ucurrent
+
+Why I moved everything out of GitHub:
+
+https://github.com/kuon/WhyILeftGithub/blob/main/README.md
+
+----
+
+
+# THIS REPOSITORY HAS MOVED
+
+New URL: https://git.goyman.com/kuon/pcb-ucurrent
+
+Why I moved everything out of GitHub:
+
+https://github.com/kuon/WhyILeftGithub/blob/main/README.md
+
+----
+
 # µcurrent board
 
 This is my own PCB for the µcurrent board.
